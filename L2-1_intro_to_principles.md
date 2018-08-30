@@ -75,4 +75,11 @@ topic: maps app on Tesla
     - analysis may be expensive
     - subject to bias
     - ignoring the broader interaction context
-    
+- Participant
+  - Pro
+    - evaluates interaction in context
+    - captures authentic user attention
+  - Cons
+    - expensive to perform and analyze
+    - requires real functional Interfaces
+    - subject to uncontrollable variables
