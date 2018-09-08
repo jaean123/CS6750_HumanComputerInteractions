@@ -7,20 +7,30 @@ Make sure to connect the needfinding exercise to items from the data inventory, 
 Last, specifically outline the potential biases you might encounter during this needfinding exercise. What are they, and what concrete steps will you take to limit their impact? You can find a list of some common biases in the fifth video in the Needfinding lesson. You might also find some interesting biases to address in Wikipedia’s long list of biases.
 
 =========================================
+
 Needfinding : Survey 
 Surveys: what will you ask? Who will you send the survey to? 
 
 For the needfinding process, a survey would be one of the methods I would employ to determine the needs  
 
+# data inventory
+- who are the users? What's their age and gender? 
+- where are the users? environment?
+- what is the context of the task?
+- what are their goals?
+- what do they need?
+- what are their tasks?
+- what are their subtasks?
 
 
 =========================================
+
 Needfinding : think-aloud
 what will participants do? What will you ask them while or after they do it?
 
 There'll be 2 distinct situations that will be important to observe, and there should be a different set of questions to ask in the different situations. 
 
-1) if an issue occurs, 
+1) When an issue occurs, how does the 
 
 =========================================
 Needfinding : interview
